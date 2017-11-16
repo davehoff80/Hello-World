@@ -1,3 +1,3 @@
 # Hello-World
 
-A start project to get used to GitHub
+A starter project to get used to GitHub
